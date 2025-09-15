@@ -12,14 +12,8 @@ export async function GET(request: NextRequest) {
     const description = searchParams.get('description') || 'Lavado profesional de muebles y tapetes'
     const type = searchParams.get('type') || 'default'
     
-    // Fuentes (necesitarás agregar las fuentes si quieres usar custom fonts)
-    const interBold = fetch(
-      new URL('../../../public/fonts/Inter-Bold.ttf', import.meta.url)
-    ).then((res) => res.arrayBuffer())
-    
-    const interRegular = fetch(
-      new URL('../../../public/fonts/Inter-Regular.ttf', import.meta.url)
-    ).then((res) => res.arrayBuffer())
+    // Removemos las fuentes personalizadas por ahora
+    // Si quieres usar fuentes personalizadas, debes agregarlas en public/fonts/
 
     return new ImageResponse(
       (
@@ -33,6 +27,7 @@ export async function GET(request: NextRequest) {
             justifyContent: 'center',
             background: 'linear-gradient(135deg, #E6F5FB 0%, #FFFFFF 50%, #FFF0EB 100%)',
             position: 'relative',
+            fontFamily: 'system-ui, -apple-system, sans-serif',
           }}
         >
           {/* Patrón decorativo */}
