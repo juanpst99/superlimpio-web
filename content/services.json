@@ -1,0 +1,178 @@
+{
+  "services": [
+    {
+      "id": "lavado-de-muebles",
+      "slug": "lavado-de-muebles",
+      "name": "Lavado de Muebles y Sofás",
+      "shortDescription": "Limpieza profunda con productos especializados",
+      "description": "Servicio profesional de lavado de muebles y sofás con productos eco-amigables y técnicas avanzadas. Eliminamos manchas difíciles, olores y ácaros, dejando tus muebles como nuevos.",
+      "price": {
+        "from": 80000,
+        "currency": "COP",
+        "unit": "por pieza"
+      },
+      "features": [
+        "Limpieza profunda con extracción",
+        "Productos hipoalergénicos",
+        "Eliminación de manchas difíciles",
+        "Desinfección incluida",
+        "Secado en 4-6 horas"
+      ],
+      "benefits": [
+        "Alarga la vida útil de tus muebles",
+        "Ambiente más saludable",
+        "Elimina ácaros y bacterias",
+        "Remueve olores desagradables"
+      ],
+      "seoTitle": "Lavado de Muebles en Medellín | Servicio Profesional",
+      "seoDescription": "Lavado profesional de muebles y sofás en Medellín. Eliminamos manchas, olores y ácaros. Secado rápido garantizado. ¡Cotiza ahora!",
+      "keywords": ["lavado de muebles", "limpieza de sofás", "lavado de muebles medellín", "limpieza profesional muebles"],
+      "faqs": [
+        {
+          "question": "¿Cuánto tiempo tarda en secar?",
+          "answer": "El tiempo de secado es de 4 a 6 horas en condiciones normales."
+        },
+        {
+          "question": "¿Los productos son seguros para mascotas?",
+          "answer": "Sí, utilizamos productos eco-amigables y seguros para toda la familia."
+        }
+      ]
+    },
+    {
+      "id": "lavado-de-tapetes",
+      "slug": "lavado-de-tapetes",
+      "name": "Lavado de Tapetes y Alfombras",
+      "shortDescription": "Eliminación de manchas y olores",
+      "description": "Lavado especializado de tapetes y alfombras de todo tipo. Restauramos colores, eliminamos manchas profundas y dejamos un aroma fresco.",
+      "price": {
+        "from": 60000,
+        "currency": "COP",
+        "unit": "por m²"
+      },
+      "features": [
+        "Tratamiento según tipo de fibra",
+        "Eliminación de manchas profundas",
+        "Restauración de colores",
+        "Tratamiento antiácaros",
+        "Secado controlado"
+      ],
+      "benefits": [
+        "Tapetes como nuevos",
+        "Eliminación total de olores",
+        "Mayor durabilidad",
+        "Ambiente más higiénico"
+      ],
+      "seoTitle": "Lavado de Tapetes y Alfombras en Medellín | Superlimpio",
+      "seoDescription": "Servicio de lavado de tapetes y alfombras en Medellín. Eliminamos manchas difíciles y malos olores. Resultados garantizados.",
+      "keywords": ["lavado de tapetes", "limpieza de alfombras", "lavado tapetes medellín"],
+      "faqs": [
+        {
+          "question": "¿Trabajan con tapetes persas?",
+          "answer": "Sí, tenemos experiencia con todo tipo de tapetes incluyendo persas y orientales."
+        }
+      ]
+    },
+    {
+      "id": "lavado-de-colchones",
+      "slug": "lavado-de-colchones",
+      "name": "Lavado de Colchones",
+      "shortDescription": "Desinfección y eliminación de ácaros",
+      "description": "Limpieza profunda y desinfección de colchones. Eliminamos ácaros, bacterias y manchas para un descanso más saludable.",
+      "price": {
+        "from": 90000,
+        "currency": "COP",
+        "unit": "por unidad"
+      },
+      "features": [
+        "Desinfección profunda",
+        "Eliminación de ácaros",
+        "Tratamiento antimanchas",
+        "Neutralización de olores",
+        "Secado profesional"
+      ],
+      "benefits": [
+        "Mejor calidad de sueño",
+        "Reduce alergias",
+        "Prolonga vida del colchón",
+        "Ambiente más saludable"
+      ],
+      "seoTitle": "Lavado de Colchones en Medellín | Desinfección Profesional",
+      "seoDescription": "Lavado y desinfección de colchones en Medellín. Eliminamos ácaros, manchas y bacterias. Servicio a domicilio.",
+      "keywords": ["lavado de colchones", "desinfección colchones", "limpieza colchones medellín"],
+      "faqs": [
+        {
+          "question": "¿Es necesario mover el colchón?",
+          "answer": "No, realizamos el servicio en su ubicación actual."
+        }
+      ]
+    },
+    {
+      "id": "cojineria-vehiculos",
+      "slug": "cojineria-vehiculos",
+      "name": "Cojinería de Vehículos",
+      "shortDescription": "Interior de autos como nuevo",
+      "description": "Lavado profesional de cojinería automotriz. Dejamos el interior de tu vehículo impecable y con aroma a nuevo.",
+      "price": {
+        "from": 120000,
+        "currency": "COP",
+        "unit": "por vehículo"
+      },
+      "features": [
+        "Limpieza de asientos",
+        "Lavado de tapetes",
+        "Limpieza de techo",
+        "Tratamiento de cuero",
+        "Aromatización"
+      ],
+      "benefits": [
+        "Interior como nuevo",
+        "Mayor valor de reventa",
+        "Ambiente más agradable",
+        "Elimina malos olores"
+      ],
+      "seoTitle": "Lavado de Cojinería de Vehículos en Medellín",
+      "seoDescription": "Lavado profesional de interiores de vehículos en Medellín. Asientos, tapetes y techos impecables.",
+      "keywords": ["lavado cojinería autos", "limpieza interior vehículos", "detailing medellín"],
+      "faqs": [
+        {
+          "question": "¿Van a domicilio?",
+          "answer": "Sí, ofrecemos servicio a domicilio en toda el área metropolitana."
+        }
+      ]
+    },
+    {
+      "id": "cortinas",
+      "slug": "cortinas",
+      "name": "Lavado e Instalación de Cortinas",
+      "shortDescription": "Servicio completo de cortinas",
+      "description": "Desmontaje, lavado, planchado e instalación de cortinas. Manejamos todo tipo de telas y sistemas.",
+      "price": {
+        "from": 50000,
+        "currency": "COP",
+        "unit": "por panel"
+      },
+      "features": [
+        "Desmontaje cuidadoso",
+        "Lavado especializado",
+        "Planchado profesional",
+        "Reinstalación incluida",
+        "Reparaciones menores"
+      ],
+      "benefits": [
+        "Sin complicaciones",
+        "Cortinas como nuevas",
+        "Servicio integral",
+        "Cuidado de telas delicadas"
+      ],
+      "seoTitle": "Lavado de Cortinas en Medellín | Instalación Incluida",
+      "seoDescription": "Servicio de lavado e instalación de cortinas en Medellín. Desmontaje y montaje incluido. Todas las telas.",
+      "keywords": ["lavado cortinas", "instalación cortinas", "limpieza cortinas medellín"],
+      "faqs": [
+        {
+          "question": "¿Incluye el desmontaje?",
+          "answer": "Sí, el servicio incluye desmontaje y reinstalación."
+        }
+      ]
+    }
+  ]
+}

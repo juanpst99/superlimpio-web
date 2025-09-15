@@ -1,0 +1,92 @@
+{
+  "business": {
+    "name": "Superlimpio",
+    "tagline": "Más limpio, más rápido, garantizado",
+    "description": "Servicio profesional de lavado de muebles y tapetes en Medellín",
+    "email": "superlimpio9696@gmail.com",
+    "phone": {
+      "display": "3188015035",
+      "value": "+573183015035",
+      "whatsapp": "573183015035"
+    },
+    "address": {
+      "street": "",
+      "city": "Medellín",
+      "state": "Antioquia",
+      "country": "Colombia"
+    },
+    "hours": {
+      "weekdays": "Lun - Vie: 8:00 AM - 6:00 PM",
+      "saturday": "Sábado: 8:00 AM - 2:00 PM",
+      "sunday": "Domingo: Cerrado"
+    },
+    "social": {
+      "facebook": "https://facebook.com/superlimpio",
+      "instagram": "https://www.instagram.com/superlimpiomedellin"
+    }
+  },
+  "services": [
+    {
+      "id": "lavado-muebles",
+      "name": "Lavado de Muebles y Sofás",
+      "shortDescription": "Limpieza profunda con productos especializados",
+      "icon": "Sofa",
+      "featured": true
+    },
+    {
+      "id": "lavado-tapetes",
+      "name": "Lavado de Tapetes y Alfombras",
+      "shortDescription": "Eliminación de manchas y olores",
+      "icon": "Square",
+      "featured": true
+    },
+    {
+      "id": "lavado-colchones",
+      "name": "Lavado de Colchones",
+      "shortDescription": "Desinfección y eliminación de ácaros",
+      "icon": "Bed",
+      "featured": true
+    },
+    {
+      "id": "lavado-vehiculos",
+      "name": "Cojinería de Vehículos",
+      "shortDescription": "Interior de autos como nuevo",
+      "icon": "Car",
+      "featured": false
+    },
+    {
+      "id": "cortinas",
+      "name": "Cortinas",
+      "shortDescription": "Lavado e instalación profesional",
+      "icon": "Home",
+      "featured": false
+    }
+  ],
+  "cities": [
+    {
+      "id": "medellin",
+      "name": "Medellín",
+      "featured": true
+    },
+    {
+      "id": "envigado",
+      "name": "Envigado",
+      "featured": true
+    },
+    {
+      "id": "sabaneta",
+      "name": "Sabaneta",
+      "featured": true
+    },
+    {
+      "id": "itagui",
+      "name": "Itagüí",
+      "featured": false
+    },
+    {
+      "id": "bello",
+      "name": "Bello",
+      "featured": false
+    }
+  ]
+}

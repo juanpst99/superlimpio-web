@@ -1,0 +1,89 @@
+{
+  "cities": [
+    {
+      "id": "medellin",
+      "slug": "medellin",
+      "name": "Medellín",
+      "department": "Antioquia",
+      "description": "Servicio de lavado de muebles y tapetes en Medellín. Cobertura en toda la ciudad con servicio a domicilio.",
+      "neighborhoods": [
+        "El Poblado",
+        "Laureles",
+        "Belén",
+        "La América",
+        "Estadio",
+        "Florida Nueva",
+        "Robledo",
+        "Aranjuez",
+        "Manrique"
+      ],
+      "seoTitle": "Lavado de Muebles en Medellín | Servicio a Domicilio",
+      "seoDescription": "Servicio profesional de lavado de muebles, tapetes y colchones en Medellín. Cobertura en todos los barrios. Cotiza ahora."
+    },
+    {
+      "id": "envigado",
+      "slug": "envigado",
+      "name": "Envigado",
+      "department": "Antioquia",
+      "description": "Lavado profesional de muebles en Envigado. Atendemos zonas residenciales y comerciales.",
+      "neighborhoods": [
+        "La Paz",
+        "Mesa",
+        "El Dorado",
+        "Zúñiga",
+        "Las Antillas",
+        "Loma del Escobero"
+      ],
+      "seoTitle": "Lavado de Muebles en Envigado | Superlimpio",
+      "seoDescription": "Servicio de lavado de muebles y tapetes en Envigado. Técnicos expertos y resultados garantizados."
+    },
+    {
+      "id": "sabaneta",
+      "slug": "sabaneta",
+      "name": "Sabaneta",
+      "department": "Antioquia",
+      "description": "Servicio de limpieza de muebles en Sabaneta. Calidad garantizada y precios competitivos.",
+      "neighborhoods": [
+        "Aves María",
+        "Calle Larga",
+        "San Joaquín",
+        "Las Lomitas",
+        "La Florida"
+      ],
+      "seoTitle": "Lavado de Muebles en Sabaneta | Servicio Profesional",
+      "seoDescription": "Lavado de muebles, sofás y colchones en Sabaneta. Servicio rápido y eficiente."
+    },
+    {
+      "id": "itagui",
+      "slug": "itagui",
+      "name": "Itagüí",
+      "department": "Antioquia",
+      "description": "Lavado de muebles y tapetes en Itagüí. Servicio domiciliario con los mejores productos.",
+      "neighborhoods": [
+        "Ditaires",
+        "San Antonio",
+        "Santa María",
+        "La Esmeralda",
+        "San Francisco"
+      ],
+      "seoTitle": "Lavado de Muebles en Itagüí | Domicilio Gratis",
+      "seoDescription": "Servicio de lavado de muebles a domicilio en Itagüí. Productos eco-amigables y secado rápido."
+    },
+    {
+      "id": "bello",
+      "slug": "bello",
+      "name": "Bello",
+      "department": "Antioquia",
+      "description": "Servicio profesional de lavado de muebles en Bello. Atención rápida y resultados garantizados.",
+      "neighborhoods": [
+        "Cabañas",
+        "Niquia",
+        "La Cumbre",
+        "Bellavista",
+        "Fontidueño"
+      ],
+      "seoTitle": "Lavado de Muebles en Bello | Superlimpio",
+      "seoDescription": "Lavado profesional de muebles y tapetes en Bello. Servicio a domicilio en todos los barrios."
+    }
+  ]
+}
